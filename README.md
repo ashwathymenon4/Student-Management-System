@@ -9,7 +9,7 @@ The application also has exception handling code.
 * cx_Oracle (Python module that enables access to oracle database)
 
 ## Features
-* Real-time weather information
+* Real-time weather and location information
 * Add student details
 * Update student details
 * View student details
